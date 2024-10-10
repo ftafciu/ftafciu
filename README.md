@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋, I'm Fabiona Tafciu!
+I'm a Software Engineer turned Automation & Robotics Master's student. I love blending software with cutting-edge robotics to create smarter, more autonomous systems.
 
-<!--
-**ftafciu/ftafciu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Current Focus:
+<br/>
+-Robotics & AI 🤖 <br/>
+-Automation Systems 🚀 <br/>
+-IoT & Embedded Systems 🌐
+-Software Development
 
-Here are some ideas to get you started:
+🛠 Tech I Work With: <br/>
+Languages: Java, Python, C++, Javascript <br/>
+Databases: Mongo, SQL <br/>
+Web: Node.js, React <br/>
+AI/ML: TensorFlow, PyTorch <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Always learning, always building.
